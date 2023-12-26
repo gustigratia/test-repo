@@ -5,3 +5,7 @@ header {
 p {
     background-color: green;
 }
+
+body {
+    font-size: large;
+}
